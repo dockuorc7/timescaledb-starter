@@ -1,0 +1,2 @@
+# Ideas
+Prevent unnecessary re-renders of static component
